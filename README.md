@@ -6,7 +6,7 @@ React-app project: https://github.com/lingsat/Task-manager
 Final build: https://github.com/lingsat/task-managet-site
 
 Socials:
-LinkedIn: https://www.linkedin.com/feed/
+LinkedIn: https://www.linkedin.com/in/sergey-petrenko-74a77421a/
 Twitter: https://twitter.com/SerhiiPetrenko2
 Instagram: https://www.instagram.com/lingsat3/
 Facebook: https://www.facebook.com/sergey.petrenko.7
