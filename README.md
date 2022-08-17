@@ -1,6 +1,6 @@
 Crated 19/07/2022 by lingsat
 
-Website link: https://lingsat.github.io/task-managet-site/
+Website link: https://lingsat.github.io/task-manager-site/
 
 React-app project: https://github.com/lingsat/Task-manager
 Final build: https://github.com/lingsat/task-managet-site
